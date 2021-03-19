@@ -1,1 +1,1 @@
-This repository is abput online shop that i make my own.
+This repository is about online shop that i make my own.
